@@ -9,7 +9,7 @@ const fs = require('fs');
 const port = 4000;
 
 const corsOptions = {
-    origin: ['https://emotionaiui.netlify.app/','http://localhost:3000','http://localhost:3001'],
+    origin: ['https://emotionaiui.netlify.app','http://localhost:3000','http://localhost:3001'],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
 };
