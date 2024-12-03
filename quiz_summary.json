@@ -1,0 +1,46 @@
+{
+  "totalQuizTime": "1.874 seconds",
+  "questions": [
+    {
+      "question": "As a child, I was (or had) concentration problems, easily distracted",
+      "percentages": {
+        "Angry": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Happy": 0,
+        "Neutral": 0,
+        "Sad": 0,
+        "Surprise": 0
+      },
+      "timeTaken": "0.01 seconds seconds",
+      "selectedOption": "c"
+    },
+    {
+      "question": "How often do you lose track of time when working on tasks?",
+      "percentages": {
+        "Angry": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Happy": 0,
+        "Neutral": 0,
+        "Sad": 0,
+        "Surprise": 0
+      },
+      "timeTaken": "0.031 seconds seconds",
+      "selectedOption": "c"
+    },
+    {
+      "question": "How well do you manage your time when juggling multiple tasks?",
+      "percentages": {
+        "Angry": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Happy": 0,
+        "Neutral": 0,
+        "Sad": 0,
+        "Surprise": 0
+      },
+      "timeTaken": "0.015 seconds seconds"
+    }
+  ]
+}
